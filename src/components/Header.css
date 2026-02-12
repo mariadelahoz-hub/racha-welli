@@ -1,0 +1,23 @@
+/* ...existing code... */
+
+.logo {
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 5px;
+  text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  animation: slideInUp 0.8s ease-out;
+  color: #333;
+}
+
+.welli-brand {
+  color: #ffd700 !important;
+  font-weight: 900;
+  text-shadow: 0 3px 6px rgba(255, 215, 0, 0.6) !important;
+}
+
+.stat-label .welli-brand {
+  color: #ffd700 !important;
+  font-weight: 900;
+}
+
+/* ...existing code... */
