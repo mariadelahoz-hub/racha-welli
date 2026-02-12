@@ -41,7 +41,7 @@ const PointsSection = () => {
             <div className="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-secondary">
               <FileText className="h-6 w-6 text-primary" />
             </div>
-            <div className="font-display text-3xl font-extrabold text-foreground">1 punto</div>
+            <div className="font-display text-3xl font-extrabold text-foreground">1 Welli punto</div>
             <p className="mt-1 text-muted-foreground">por cada aplicación</p>
           </motion.div>
 
