@@ -25,9 +25,9 @@ const ExampleCard = () => {
           className="mb-8 text-center"
         >
           <h2 className="mb-2 font-display text-2xl font-bold text-foreground md:text-3xl">
-            Simulador de Puntos
+            Simulador de Welli puntos
           </h2>
-          <p className="text-muted-foreground">Calcula cuántos puntos puedes ganar</p>
+          <p className="text-muted-foreground">Calcula cuántos Welli puntos puedes ganar</p>
         </motion.div>
 
         <motion.div
@@ -69,7 +69,7 @@ const ExampleCard = () => {
 
             <div className="flex items-center justify-between pt-4">
               <div className="flex items-center gap-3">
-                <span className="text-sm font-medium text-muted-foreground">Total de puntos</span>
+                <span className="text-sm font-medium text-muted-foreground">Total de Welli puntos</span>
               </div>
               <span className="font-display text-lg font-bold text-foreground">{totalPoints} pts</span>
             </div>

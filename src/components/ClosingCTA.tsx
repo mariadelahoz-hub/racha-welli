@@ -19,7 +19,7 @@ const ClosingCTA = () => {
             <br />
             Mantén tu racha.
             <br />
-            <span className="text-primary">Haz que tus puntos valgan más.</span>
+            <span className="text-primary">Haz que tus Welli puntos valgan más.</span>
           </h2>
 
           <p className="text-sm text-muted-foreground">

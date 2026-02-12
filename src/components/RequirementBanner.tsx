@@ -19,7 +19,7 @@ const RequirementBanner = () => {
               ⚠️ Requisito obligatorio
             </h3>
             <p className="mt-1 text-sm text-accent-foreground/80">
-              Para poder canjear puntos, debes tener al menos{" "}
+              Para poder canjear Welli puntos, debes tener al menos{" "}
               <strong>1 desembolso</strong> durante el periodo de 4 semanas.
             </p>
           </div>

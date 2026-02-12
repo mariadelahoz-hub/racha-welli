@@ -25,7 +25,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="mb-8 text-lg text-primary-foreground/80 md:text-xl">
-            Obtén 5 puntos por desembolso y desbloquea mejores premios.
+            Obtén 5 Welli puntos por desembolso y desbloquea mejores premios.
           </p>
 
           <motion.div
@@ -35,7 +35,7 @@ const HeroSection = () => {
           >
             <TrendingUp className="h-6 w-6 text-accent" />
             <span className="font-display text-base font-bold text-primary-foreground md:text-lg">
-              Mantén tu racha activa y multiplica tus puntos{" "}
+              Mantén tu racha activa y multiplica tus Welli puntos{" "}
               <span className="text-accent">x1.5</span>
             </span>
           </motion.div>

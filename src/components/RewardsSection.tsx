@@ -3,7 +3,7 @@ import { Gift, Star, ShoppingBag, Trophy, Flame, Target } from "lucide-react";
 
 const unlockItems = [
   { icon: Star, text: "Activar el multiplicador x1.5" },
-  { icon: Gift, text: "Desbloquear el canje de puntos" },
+  { icon: Gift, text: "Desbloquear el canje de Welli puntos" },
   { icon: ShoppingBag, text: "Acceder al catálogo de premios" },
 ];
 
@@ -34,7 +34,7 @@ const RewardsSection = () => {
           <h2 className="mb-1 font-display text-2xl font-bold text-foreground md:text-3xl">
             🎁 Catálogo de Premios
           </h2>
-          <p className="text-sm text-muted-foreground">Acumula puntos y canjea premios reales</p>
+          <p className="text-sm text-muted-foreground">Acumula Welli puntos y canjea premios reales</p>
         </motion.div>
 
         {/* Progress bar */}

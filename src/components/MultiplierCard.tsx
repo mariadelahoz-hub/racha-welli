@@ -24,7 +24,7 @@ const MultiplierCard = () => {
               x1.5
             </h2>
             <p className="mb-8 text-primary-foreground/80">
-              Completa 4 semanas consecutivas y todos tus puntos se multiplican por 1.5
+              Completa 4 semanas consecutivas y todos tus Welli puntos se multiplican por 1.5
             </p>
 
             {/* Visual example */}
@@ -36,14 +36,14 @@ const MultiplierCard = () => {
               className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center"
             >
               <div className="rounded-2xl bg-primary-foreground/10 px-6 py-4 text-center backdrop-blur-sm">
-                <div className="text-sm text-primary-foreground/60">Puntos base</div>
+                <div className="text-sm text-primary-foreground/60">Welli puntos base</div>
                 <div className="font-display text-3xl font-extrabold text-primary-foreground">40</div>
               </div>
 
               <ArrowRight className="h-6 w-6 rotate-90 text-accent sm:rotate-0" />
 
               <div className="animate-pulse-glow rounded-2xl bg-accent/20 px-6 py-4 text-center backdrop-blur-sm ring-2 ring-accent/40">
-                <div className="text-sm text-accent">Puntos canjeables</div>
+                <div className="text-sm text-accent">Welli puntos canjeables</div>
                 <div className="font-display text-3xl font-extrabold text-primary-foreground">60</div>
               </div>
             </motion.div>

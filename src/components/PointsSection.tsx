@@ -23,7 +23,7 @@ const PointsSection = () => {
           className="mb-10 text-center"
         >
           <h2 className="mb-2 font-display text-2xl font-bold text-foreground md:text-3xl">
-            Cómo ganas puntos
+            Cómo ganas Welli puntos
           </h2>
         </motion.div>
 
@@ -52,7 +52,7 @@ const PointsSection = () => {
             <div className="mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-welli-green-soft">
               <DollarSign className="h-6 w-6 text-welli-green" />
             </div>
-            <div className="font-display text-3xl font-extrabold text-foreground">10 puntos</div>
+            <div className="font-display text-3xl font-extrabold text-foreground">10 Welli puntos</div>
             <p className="mt-1 text-muted-foreground">por cada desembolso</p>
           </motion.div>
         </motion.div>
@@ -64,7 +64,7 @@ const PointsSection = () => {
           transition={{ delay: 0.4 }}
           className="mt-6 text-center text-sm text-muted-foreground"
         >
-          Mientras más desembolsos, más rápido crecen tus puntos.
+          Mientras más desembolsos, más rápido crecen tus Welli puntos.
         </motion.p>
       </div>
     </section>

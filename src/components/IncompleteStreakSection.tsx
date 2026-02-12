@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Info, ArrowRight } from "lucide-react";
 
 const bullets = [
-  "Tus puntos se siguen acumulando",
+  "Tus Welli puntos se siguen acumulando",
   "No se activa el multiplicador",
 ];
 
